@@ -281,6 +281,7 @@ tv-static.scdn.co
 xml.opera.com
 
 # Netflix
+# Guest
 # secure, api-global, and appboot break Netflix
 #secure.netflix.com                   
 #api-global.netflix.com
@@ -293,7 +294,7 @@ nrdp.prod.ftl.netflix.com
 
 
 # Spotify
-#api-tv.spotify.com # required for TV and PS4 spotify app
+api-tv.spotify.com # required for TV and PS4 spotify app
 
 # Hulu
 api.distribution.hulu.com
@@ -330,7 +331,7 @@ e2.resources.foxtel.com.au
 a1.resources.foxtel.com.au
 
 # Yamaha AV receivers
-#avpro.global.yamaha.com # Blocks system updates on RX-V685
+avpro.global.yamaha.com # Blocks system updates on RX-V685
 
 # Toshiba
 events.cid.samba.tv
